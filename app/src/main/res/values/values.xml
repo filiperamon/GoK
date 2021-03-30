@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardview_radius">5dp</dimen>
+    <dimen name="margin_container">15dp</dimen>
+    <dimen name="products_img_width">100dp</dimen>
+    <dimen name="products_img_height">100dp</dimen>
+    <dimen name="spotligh_img_width">400dp</dimen>
+</resources>
