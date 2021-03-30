@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity() {
         })
 
         viewModel.getProducts()
-    }
+    } 
 
     private fun returnContext(): Context = this
 }
